@@ -21,7 +21,8 @@ Main components:
 Please note that the project uses the IronXL library for Excel file manipulation.
 
 ## Example Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V038klFttUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Example Video
+[![Watch the video](https://img.youtube.com/vi/V038klFttUg/maxresdefault.jpg)](https://youtu.be/V038klFttUg)
 
 ## Contact
 For more information, feel free to reach out or open an issue.
