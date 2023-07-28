@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pvdYwLjXliCFcADXdL5pvQVYM+mVlYLMizNbyBntPz4dgy00aE3CauzAqBArnMAiN5cu0GIzGJ7gmYND3DKl0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yosi2\\OneDrive - ac.sce.ac.il\\שולחן העבודה\\פרויקטים בתכנות\\Doctor - Test Blood\\DoctorSoftware - Final Project\\DoctorSoftware - Final Project\\DoctorSoftware - Final Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yosi2\\.nuget\\packages\\ironxl.excel\\2022.3.0\\ironxl.excel.2022.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
