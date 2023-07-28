@@ -24,4 +24,5 @@ Please note that the project uses the IronXL library for Excel file manipulation
 [![Watch the video](https://img.youtube.com/vi/V038klFttUg/hqdefault.jpg)](https://youtu.be/V038klFttUg)
 
 ## Contact
-For more information, feel free to reach out or open an issue.
+- LinkedIn - Yosi Kariv
+- Email - Yosi277@gmail.com
